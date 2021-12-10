@@ -1,10 +1,6 @@
 
 <h1 align="center">IT004.M13.KHCL - Cơ sở dữ liệu</h1>
 
-## Mục lục
-* [Thông tin môn học](#thongtinmonhoc)
-* [Giảng viên hướng dẫn](#giangvienhuongdan)
-
 <a name="thongtinmonhoc"></a>
 ## Thông tin môn học
 * **Tên môn học**: Cơ sở dữ liệu
