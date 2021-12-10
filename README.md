@@ -17,6 +17,6 @@
 <a name="giangvienhuongdan"></a>
 ## Giảng viên hướng dẫn
 ### Giảng viên lý thuyết
-* **Nguyễn Hồ Duy** - tringuyen@uit.edu.vn
+* **Nguyễn Hồ Duy Tri** - tringuyen@uit.edu.vn
 ### Giảng viên thực hành
 * **Lưu Thanh Sơn** - sonlt@uit.edu.vn
