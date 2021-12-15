@@ -1,7 +1,7 @@
 <!-- UIT Banner -->
 <div align="center">
   <a href="https://www.uit.edu.vn/" title="Trường Đại học Công nghệ Thông tin" target="_blank">
-    <img src="https://www.uit.edu.vn/sites/vi/files/banner_uit_15.png">
+    <img src="https://i.imgur.com/WmMnSRt.png">
   </a>
 </div>
 
