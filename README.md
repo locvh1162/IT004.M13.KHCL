@@ -17,7 +17,7 @@
 * **Năm học**: 2020-2021
 
 <a name="giangvienhuongdan"></a>
-## Giảng viên hướng dẫn
+## Giảng viên
 ### Giảng viên lý thuyết
 * **Nguyễn Hồ Duy Tri** - tringuyen@uit.edu.vn
 ### Giảng viên thực hành
